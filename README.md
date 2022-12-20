@@ -1,2 +1,1 @@
-"# MBTI" 
-"# MBTI" 
+MBTI
